@@ -9,8 +9,8 @@ const UploadWidget = ({ onImageUpload }) => {
     useEffect(() => {
         cloudinaryRef.current = window.cloudinary;
         widgetRef.current = cloudinaryRef.current.createUploadWidget({
-            cloudName: 'sanket12',
-            upload_preset: 'plcy9ur1',
+            cloudName: 'dtjndh1um',
+            upload_preset: 'ddrecipe',
         }, function (error, result) {
             if (!error && result && result.event === "success") {
                 // Call the callback function with the uploaded image URL

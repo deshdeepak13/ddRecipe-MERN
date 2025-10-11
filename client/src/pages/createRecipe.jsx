@@ -39,6 +39,7 @@ const CreateRecipe = () => {
   };
 
   const handleImageUpload = (imageUrl) => {
+    console.log(imageUrl)
     form.setFieldsValue({ recipeImg: imageUrl });
   };
 

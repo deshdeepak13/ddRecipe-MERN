@@ -1,4 +1,4 @@
-# Let's Cook
+# dd Recipe
 
 ### Welcome to Let's! This web application allows users to manage their recipes, including adding, editing, and deleting recipes, and saving other recipes.
 
