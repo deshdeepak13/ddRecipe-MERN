@@ -266,7 +266,7 @@ npm run dev
 
 ---
 
-## 🚀 Deployment Notes
+<!-- ## 🚀 Deployment Notes
 
 * Backend can be deployed on **Render**, **Railway**, or **Vercel Functions**
 * Frontend deployed via **Vercel**, **Netlify**, or **GitHub Pages**
@@ -277,22 +277,11 @@ npm run dev
   <script src="https://widget.cloudinary.com/v2.0/global/all.js" type="text/javascript"></script>
   ```
 
----
+--- -->
 
-## 🧩 Possible Improvements
+<!-- ## 📸 Screenshots (optional)
 
-* ✅ Fix `select(" --password")` → `select("-password")`
-* ✅ Add `errorHandler` middleware for `ApiError`
-* 🔐 Add `authMiddleware` to protect recipe routes
-* 🧠 Improve Redux store to only store `{ user, token }`
-* 🌍 Configure environment-based API URLs via `import.meta.env`
-* 🧪 Add Jest tests for controllers and reducers
-
----
-
-## 📸 Screenshots (optional)
-
-> You can add screenshots here once available.
+> You can add screenshots here once available. -->
 
 ```
 /client/src/assets/
